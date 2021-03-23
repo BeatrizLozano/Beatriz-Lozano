@@ -2,4 +2,4 @@
 
 Mi primer repositorio en GitHub!
 
-Me encanta viajas, las furgos camper y los animales :)
+Me encanta viajar, las furgos camper y los animales :)
